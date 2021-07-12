@@ -1,8 +1,8 @@
 # MTD (Mexican Train Dominoes) Score Keeper
-A web application that allows users to score their mexican train dominoes games, save their completed or semi-completed games for later viewing, and view the results of your previous games and/or others games.
+A web application that allows users to score their mexican train dominoes games, save their completed or semi-completed games for later viewing, and view the results of their previous games and/or others games.
 
 # Screenshots and Visuals
-The app has yet to be created (it is still in the early design phases).
+The app has yet to be created.
 
 # Live Link 
 A live version of this app will be available as implementation begins.
@@ -18,7 +18,7 @@ Email: __ryan.dj.scott@geekagogo.ca__
 Version 1.0 - 
 
 # Contributions
-The purpose of this web application is to develope my React.js and Node.js skills. As such, this project is currently not seeking any outside contributors.
+The purpose of this web application is to develop my React.js and Node.js skills. As such, this project is currently not seeking any contributors.
 
 # Authors and Acknowledgements
 This web application was conceptualized, designed, and implemented by [Ryan Scott](https://github.com/RyanDJScott).
